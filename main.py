@@ -5,8 +5,8 @@ import telebot
 import threading
 from googletrans import Translator
 
-BOT_TOKEN = "7637887871:AAEn2YPIms4uqAFQY7Z6IR0LXhNDBeLo7nc"
-WEATHER_API_KEY = "e49447bf70bfb338fc11241463c0d18d"
+BOT_TOKEN = "BOT_TOKEN"
+WEATHER_API_KEY = "API"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
